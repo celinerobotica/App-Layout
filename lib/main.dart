@@ -50,7 +50,7 @@ class _HomePageState extends State<HomePage> {
               child: Container(
                 alignment: Alignment.center,
                 //color: Colors.amber,
-                child: const Text('Layout Superior'),
+                child: const Text('Living in a material world'),
               ),
             ),
             Expanded(
@@ -84,7 +84,7 @@ class _HomePageState extends State<HomePage> {
                           ),
                         ],
                       ),
-                      child: const Text('Meu Aplicativo'),
+                      child: const Text('Material Girl'),
                     ),
                   ),
                   Expanded(
@@ -102,7 +102,7 @@ class _HomePageState extends State<HomePage> {
               child: Container(
                 alignment: Alignment.center,
                 //color: Colors.blue,
-                child: const Text('Layout Inferior'),
+                child: const Text('Living in a material world'),
               ),
             ),
           ],
